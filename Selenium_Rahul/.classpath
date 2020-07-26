@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="F:/drivers/commons-codec-1.14.jar"/>
+	<classpathentry kind="lib" path="F:/drivers/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="F:/drivers/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="F:/drivers/commons-lang3-3.9.jar"/>
+	<classpathentry kind="lib" path="F:/drivers/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="F:/drivers/gson-2.8.5.jar"/>
+	<classpathentry kind="lib" path="F:/drivers/httpclient-4.5.12.jar"/>
+	<classpathentry kind="lib" path="F:/drivers/httpcore-4.4.13.jar"/>
+	<classpathentry kind="lib" path="F:/drivers/httpmime-4.5.12.jar"/>
+	<classpathentry kind="lib" path="F:/drivers/jarchivelib-1.0.0.jar"/>
+	<classpathentry kind="lib" path="F:/drivers/jsoup-1.11.3.jar"/>
+	<classpathentry kind="lib" path="F:/drivers/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="F:/drivers/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="F:/drivers/testng-6.14.3.jar"/>
+	<classpathentry kind="lib" path="F:/drivers/webdrivermanager-3.8.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

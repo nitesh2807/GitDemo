@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.sample.Learning_Rest_Assured.CustomListeners.TestListeners"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.sample.Learning_RestAssured.TestSetup.ValidateCreateCustomerAPI">
+        <methods>
+          <include name="teardownframework"/>
+          <include name="aftermethod"/>
+          <include name="ValidateCreateCustomerAPIWithValidSecretKey" invocation-numbers="0 1"/>
+          <include name="setUpFramework"/>
+          <include name="beforemethod"/>
+          <include name="BeforeClass"/>
+        </methods>
+      </class> <!-- com.sample.Learning_RestAssured.TestSetup.ValidateCreateCustomerAPI -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
